@@ -1,2 +1,3 @@
-# KazanExpress GoLang test task (w/o tests and static analyzer) 
+# KazanExpress GoLang Test Task
+(w/o tests and static analyzer) 
  
