@@ -1,1 +1,2 @@
-# golang-test-task
+# KazanExpress GoLang test task (w/o tests and static analyzer) 
+ 
